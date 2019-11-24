@@ -1,0 +1,2 @@
+# Paper-document-sharing-app-using-android-
+Use of paper is increasing day by day, about 20 million trees are cut down annually for virgin paper, which are used for production of books, over than 30 million acres of forest are destroyed annually. The entire process of creating paper is damaging the environment. To avoid these circumstances and reduce the use of paper this android application can be used. By using this application, the use of paper can be reduced, easy to transfer documents and these documents can be safely maintained.
